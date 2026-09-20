@@ -16,7 +16,11 @@ const PortfolioDetail = () => {
     portrait: "Portrait",
     commercial: "Commercial",
     lifestyle: "Lifestyle",
-    fine_art: "Fine Art"
+    fine_art: "Fine Art",
+    brand_positioning: "Brand Positioning",
+    performance: "Performance",
+    creative: "Creative",
+    strategy: "Strategy"
   };
 
   if (isLoading) {

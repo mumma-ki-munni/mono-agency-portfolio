@@ -14,6 +14,10 @@ const PortfolioCard = ({ project }: PortfolioCardProps) => {
     commercial: "Commercial",
     lifestyle: "Lifestyle",
     fine_art: "Fine Art",
+    brand_positioning: "Brand Positioning",
+    performance: "Performance",
+    creative: "Creative",
+    strategy: "Strategy",
   };
 
   // Use year from database, fallback to created_at year
