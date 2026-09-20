@@ -174,7 +174,7 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "hello@atelier.studio", href: "mailto:hello@atelier.studio" },
+    { icon: Mail, label: "Email", value: "hello@ladestack.com", href: "mailto:hello@ladestack.com" },
     { icon: Phone, label: "WhatsApp", value: "+1 (555) 123-4567", href: "https://wa.me/15551234567" },
     { icon: MapPin, label: "Location", value: "New York, NY", href: null },
   ];
